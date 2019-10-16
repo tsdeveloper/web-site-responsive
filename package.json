@@ -1,0 +1,14 @@
+{
+  "name": "web-site-responsive",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Web Developer",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/*.html --host=0.0.0.0"    
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4",
+    "sass": "^1.23.0"
+  }
+}
